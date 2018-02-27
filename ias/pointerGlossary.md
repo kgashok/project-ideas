@@ -204,6 +204,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 ## Lecture Notes 2 
 
  - Double Pointers - pointer variables that store the memory location of another pointer is called a double pointer. And naming convention requires that `**` be used when defining such double pointer variables 
+    - http://j.mp/doubleSwap - for double pointer coding practice 
  - Use Pointers to traverse Linear data structures (like Linked lists, and Queues) 
     - Solve problems in CloudCoder (such as `create`, `traverse`, etc ) from http://j.mp/pointerKITE 
 
