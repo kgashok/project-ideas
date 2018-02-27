@@ -1,9 +1,11 @@
-**Table of Contents**
 
 - Take a look at http://j.mp/pointerGrok as well.  
 - Take a look at the [Pointer Chapter](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html) on Pebble 
 
 ![joke](https://imgs.xkcd.com/comics/pointers.png)
+
+
+**Table of Contents**
 
 * [Pointers](#pointers)  
 	* [Integers and Integer variables (Known)](#integers-and-integer-variables-known)  
