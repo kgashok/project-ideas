@@ -204,11 +204,11 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 
 ### Context
 
-- dynamic memory management (malloc, memset) 
+- dynamic memory management (malloc, memset) - **pointers** are used as a handle for storing such memory locations.
 - data structures like linked list, queues
-- Pointers that are require to traverse and manipulate linear data structures 
+- **Pointers** that are require to traverse and manipulate linear data structures 
 - Data structures like trees, graphs
-- Pointers and recursive functions/algorithms which are required to manipulate recursive data structures
+- **Pointers** and recursive functions/algorithms which are required to manipulate recursive data structures
 	- finding the shortest path from Destination A to B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
