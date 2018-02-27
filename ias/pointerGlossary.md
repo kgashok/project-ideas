@@ -185,3 +185,26 @@ With reference to `Line 24`, the output will be:
 Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one here at http://bit.ly/pointerKITE. 
 
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
+
+
+## Instructor Notes
+
+1. **What is a pointer?** It is a number.
+
+2. **What is a valid pointer versus invalid pointer?** A valid pointer is a hexadecimal number, very often, a 8 digit hexadecimal number e.g. `0x1239ffb9`. It also refers to a valid memory addresses that is accessible to the CPU of a computer. An invalid pointer is a hexadecimal value (for e.g. `0x10`) which is either not accessible by a user written software program (because that memory location stores code that is part of the BIOS code of the computer) or a hexadecimal value which is not relevant to the memory addresses of a computer. 
+
+3. **What is a valid pointer variable?** A variable that can be used to store a valid pointer value. 
+4. **How is a pointer variable defined?** The same naming conventions (மரபு, பழக்கம்) that apply to a variable, apply to a pointer variable. However there is one special requirement - and that is it needs to be preceded by a `*`. Valid pointer variable names are `*name`, `*value1` and `*node1` 
+
+5. **How is a pointer variable initialized**? The right hand side (RHS) of the assignment statement must be a valid memory address (usually a hexadecimal value). A `null pointer variable` is a pointer variable which stores `0` as the pointer value, usually as part of its initialization. 
+
+### Context
+
+- dynamic memory management (malloc, memset) 
+- data structures like linked list, queues
+- Pointers that are require to traverse and manipulate linear data structures 
+- Data structures like trees, graphs
+- Pointers and recursive functions/algorithms which are required to manipulate recursive data structures
+	- finding the shortest path from Destination A to B 
+	- searching and inserting data into data structures for efficient retrieval and modifications 
+
