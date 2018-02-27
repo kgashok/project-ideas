@@ -198,6 +198,10 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 
 5. **How is a pointer variable initialized**? The right hand side (RHS) of the assignment statement must be a valid memory address (usually a hexadecimal value). A `null pointer variable` is a pointer variable which stores `0` as the pointer value, usually as part of its initialization. 
 
+6. **How and when to deference a pointer**? A pointer when de-referenced (using the `*` operator) on the right hand side (RHS) of an assignment **retrieves** data from the memory location it is pointed to. A pointer when de-referenced on the left hand side (LHS) results in the **storing** of data happens in the memory location it points to. 
+
+
+
 ### Context
 
 - dynamic memory management (malloc, memset) 
