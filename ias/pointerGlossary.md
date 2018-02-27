@@ -193,7 +193,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 
 2. **What is a valid pointer versus invalid pointer?** A valid pointer is a hexadecimal number, very often, a 8 digit hexadecimal number e.g. `0x1239ffb9`. It also refers to a valid memory addresses that is accessible to the CPU of a computer. An invalid pointer is a hexadecimal value (for e.g. `0x10`) which is either not accessible by a user written software program (because that memory location stores code that is part of the BIOS code of the computer) or a hexadecimal value which is not relevant to the memory addresses of a computer. 
 
-3. **What is a valid pointer variable?** A variable that can be used to store a valid pointer value. 
+3. **What is a pointer variable?** A variable that is used to store a valid pointer value. 
 4. **How is a pointer variable defined?** The same naming conventions (மரபு, பழக்கம்) that apply to a variable, apply to a pointer variable. However there is one special requirement - and that is it needs to be preceded by a `*`. Valid pointer variable names are `*name`, `*value1` and `*node1` 
 
 5. **How is a pointer variable initialized**? The right hand side (RHS) of the assignment statement must be a valid memory address (usually a hexadecimal value). A `null pointer variable` is a pointer variable which stores `0` as the pointer value, usually as part of its initialization. 
@@ -201,6 +201,11 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 6. **How and when to deference a pointer**? A pointer when de-referenced (using the `*` operator) on the right hand side (RHS) of an assignment **retrieves** data from the memory location it is pointed to. A pointer when de-referenced on the left hand side (LHS) results in the **storing** of data happens in the memory location it points to. 
 
 
+## Lecture Notes 2 
+
+ - Double Pointers - pointer variables that store the memory location of another pointer is called a double pointer. And naming convention requires that `**` be used when defining such double pointer variables 
+ - Use Pointers to traverse Linear data structures (like Linked lists, and Queues) 
+    - Solve problems in CloudCoder (such as `create`, `traverse`, etc ) from http://j.mp/pointerKITE 
 
 ### Context
 
