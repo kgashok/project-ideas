@@ -187,7 +187,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
 
-## Instructor Notes
+## Lecture Notes
 
 1. **What is a pointer?** It is a number.
 
