@@ -6,7 +6,6 @@
 
 
 **Table of Contents**
-
 * [Pointers](#pointers)  
 	* [Integers and Integer variables (Known)](#integers-and-integer-variables-known)  
 	* [Pointers and pointer variables (Unknown)](#pointers-and-pointer-variables-unknown)  
@@ -18,6 +17,9 @@
 		* [Quiz 5  - Printer Arithmetic](#quiz-5----printer-arithmetic)  
 			* [Question 5.1](#question-51)  
 			* [Question 5.2](#question-52)  
+	* Bug Fix
+		* http://j.mp/bugFix1, http://j.mp/bugFix2, http://j.mp/bugFix3,
+
 	* [What next?](#what-next)  
 
 
@@ -218,3 +220,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 	- finding the shortest path from Destination A to B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMyMDA3ODIyM119
+-->
