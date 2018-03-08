@@ -18,7 +18,7 @@
 			* [Question 5.1](#question-51)  
 			* [Question 5.2](#question-52)  
 	* Bug Fix
-		* http://j.mp/bugFix1, http://j.mp/bugFix2, http://j.mp/bugFix3,
+		* http://j.mp/bugFix1, http://j.mp/bugFix2, http://j.mp/bugFix3 and http://j.mp/bugFix4
 
 	* [What next?](#what-next)  
 
