@@ -207,6 +207,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 
  - **Double Pointers** - pointer variables that store the memory location of another pointer is called a double pointer. And naming convention requires that `**` be used when defining such double pointer variables 
     - http://j.mp/doubleSwap - for double pointer coding practice 
+    - http://j.mp/dPalindromeKG - Practice 2 on Palindrome checking
     - http://j.mp/doublePointerSort - for a real-world use case
  - Use **Pointers to operate** on Linear data structures (like Linked lists, and Queues) 
     - Solve problems in CloudCoder (such as `create`, `traverse`, etc ) from http://j.mp/pointerKITE 
@@ -223,5 +224,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDkwMTA2MV19
+eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
