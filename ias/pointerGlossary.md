@@ -17,7 +17,8 @@
 		* [Quiz 5  - Printer Arithmetic](#quiz-5----printer-arithmetic)  
 			* [Question 5.1](#question-51)  
 			* [Question 5.2](#question-52)  
-		* [Quiz 6  - Mystery](#quiz-5----mystery-function)  
+		* [Quiz 6  - Mystery](#quiz-6----mystery-function)  
+
 	* Bug Fix
 		* http://j.mp/bugFix1, http://j.mp/bugFix2, http://j.mp/bugFix3 and http://j.mp/bugFix4
 
@@ -236,5 +237,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0Mjc4MjY2XX0=
+eyJoaXN0b3J5IjpbNzU4MTQ4OTY5XX0=
 -->
