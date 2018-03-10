@@ -181,6 +181,9 @@ With reference to `Line 24`, the output will be:
 	 
 	 > Spoiler Alert: http://stackoverflow.com/a/3524270/307454
 
+#### Quiz 6 - mystery function
+
+![mystery](https://files.gitter.im/kgashok/advik/NkvR/Screenshot-2018-03-10-at-08.13.29.png)
 
 ### What next?
 
@@ -227,5 +230,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUwMTYzNzhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODk1NDYxMDJdfQ==
 -->
