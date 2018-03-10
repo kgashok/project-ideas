@@ -187,7 +187,8 @@ With reference to `Line 24`, the output will be:
 What does the above function do? 
 1. Will not compile 
 2. Will execute forever
-3. Calculates the length of string 
+3. Calculates the length of `arr` 
+4. None of the above
 
 ### What next?
 
@@ -234,5 +235,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMxMzA0NTldfQ==
+eyJoaXN0b3J5IjpbLTUyMzkzNjU4XX0=
 -->
