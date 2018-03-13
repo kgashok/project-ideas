@@ -202,6 +202,18 @@ What does the above function do?
 3. Simply swaps all characters in-place` 
 4. None of the above
 
+#### Quiz 8 - Mystery Function 3
+
+![quiz7](http://j.mp/mystery_func4) 
+
+What does the above function do? 
+1. Will not compile 
+2. Will execute forever
+3. Traverses to the end of the ` 
+4. None of the above
+
+
+
 
 ### What next?
 
@@ -248,5 +260,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjI1NDQ2MF19
+eyJoaXN0b3J5IjpbOTY4NTA3MzBdfQ==
 -->
