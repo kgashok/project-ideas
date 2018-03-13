@@ -214,7 +214,7 @@ What does the above function do?
 
 #### Quiz 9 - Mystery Function 5
 
-![quiz7](http://j.mp/mystery_func4) 
+![quiz7](http://j.mp/mystery_func5) 
 
 What does the above function do? 
 1. Will not compile 
@@ -269,5 +269,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM4MTg0MThdfQ==
+eyJoaXN0b3J5IjpbNzgzNDQxNzNdfQ==
 -->
