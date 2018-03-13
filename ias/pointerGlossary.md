@@ -209,7 +209,7 @@ What does the above function do?
 What does the above function do? 
 1. Will not compile 
 2. Will execute forever
-3. Traverses to the end of the linked list (traverse to tail` 
+3. Traverses to the end of the linked list (traverse to tail) 
 4. None of the above
 
 
@@ -260,5 +260,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTU2NDMzMF19
+eyJoaXN0b3J5IjpbMTIwNTYzNDQ5N119
 -->
