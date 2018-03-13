@@ -202,7 +202,7 @@ What does the above function do?
 3. Simply swaps all characters in-place
 4. None of the above
 
-#### Quiz 8 - Mystery Function 3
+#### Quiz 8 - Mystery Function 4
 
 ![quiz7](http://j.mp/mystery_func4) 
 
@@ -212,6 +212,15 @@ What does the above function do?
 3. Traverses to the end of the linked list and returns the **tail** node 
 4. None of the above
 
+#### Quiz 9 - Mystery Function 5
+
+![quiz7](http://j.mp/mystery_func4) 
+
+What does the above function do? 
+1. Will not compile 
+2. Will execute forever
+3. Traverses to the end of the linked list and returns the **tail** node 
+4. None of the above
 
 
 
@@ -260,5 +269,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzc3NTIwOF19
+eyJoaXN0b3J5IjpbLTIwOTM4MTg0MThdfQ==
 -->
