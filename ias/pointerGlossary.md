@@ -192,6 +192,12 @@ What does the above function do?
 3. Calculates the length of `arr` 
 4. None of the above
 
+#### Quiz 7 - What does this function do? 
+
+![quiz7](http://j.mp/mystery_func3) 
+
+
+
 ### What next?
 
 Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one here at http://bit.ly/pointerKITE. 
@@ -237,5 +243,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTYyNTc0Nl19
+eyJoaXN0b3J5IjpbMTUyMTI5MzAyM119
 -->
