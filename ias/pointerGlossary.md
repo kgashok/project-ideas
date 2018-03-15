@@ -188,7 +188,7 @@ The only kind of arithmetic that is allowed with pointers is:
 1. Addition and Subtraction
 2. Multiplication and Division 
 3. Only subtraction
-4. 
+4. None of the above 
 
 #### Quiz 6 - Mystery Function
 
@@ -276,5 +276,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTkwNTJdfQ==
+eyJoaXN0b3J5IjpbLTEyODE4NTg4NzNdfQ==
 -->
