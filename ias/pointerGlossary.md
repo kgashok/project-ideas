@@ -73,6 +73,9 @@ Very important counter-perspective to read:
 ```c
 	int a[10]; // defining an array
 	assert ( a == &a[0]); 
+
+	int *b = a[1]; 
+	assert(
 ```
 
 The assert in the above code snippet will 
@@ -298,5 +301,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODQzMTY4MV19
+eyJoaXN0b3J5IjpbMjM5Njc2Mjc0XX0=
 -->
