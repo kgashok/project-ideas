@@ -68,6 +68,12 @@ Very important counter-perspective to read:
 
 [TOC]
 
+#### Quiz 0 - Pointer basics 
+
+```c
+	int a[10
+```
+
 #### Quiz 1  - Pointer basics
 ```cpp
 int b; 
@@ -285,5 +291,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU0NDQxMTBdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjExNzU0MV19
 -->
