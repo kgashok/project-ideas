@@ -230,7 +230,15 @@ What does the above function do?
 3. Sums up all the integers in the array into `val` and returns it
 4. None of the above
 
+#### Quiz 10 - Mystery Function 6
 
+![quiz7](http://j.mp/mystery_func5) 
+
+What does the above function do? 
+1. Will not compile 
+2. Will execute forever
+3. Sums up all the integers in the array into `val` and returns it
+4. None of the above
 
 ### What next?
 
@@ -277,5 +285,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTQzMTkxXX0=
+eyJoaXN0b3J5IjpbMTA4MzY4OTI5OV19
 -->
