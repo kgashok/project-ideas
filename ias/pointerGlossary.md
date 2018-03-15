@@ -236,7 +236,7 @@ What does the above function do?
 
 What does the above function do? 
 1. finds the first character from `s1` that occurs in `s2`
-2. finds the first character that is part of `s2` that occurs in `s1` and return
+2. finds the first character that is part of `s2` that occurs in `s1` and returns its location from 
 4. None of the above
 
 ### What next?
@@ -284,5 +284,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkxMzEzNThdfQ==
+eyJoaXN0b3J5IjpbMTY0NDIzMjQzNF19
 -->
