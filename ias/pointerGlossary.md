@@ -79,7 +79,7 @@ The assert in the above code snippet will
 1. Pass 
 2. Fail 
 3. Indeterminable 
-4. 
+4. Won't compile 
 
 #### Quiz 1  - Pointer basics
 ```cpp
@@ -298,5 +298,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzNTE3NjVdfQ==
+eyJoaXN0b3J5IjpbMTQ2ODQzMTY4MV19
 -->
