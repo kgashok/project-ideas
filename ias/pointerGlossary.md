@@ -184,11 +184,11 @@ With reference to `Line 24`, the output will be:
 	 > Spoiler Alert: http://stackoverflow.com/a/3524270/307454
 
 ##### Quiz 5.3 
-The only kind of arithmetic that is allowed with pointers is: 
-1. Addition and Subtraction
-2. Multiplication and Division 
+The only kind of arithmetic that is allowed between two pointers: 
+1. Addition and Subtraction of two pointers
+2. Multiplication and Division of two pointers
 3. Both the above
-4. Only subtraction
+4. Only subtraction between two pointers
 
 
 #### Quiz 6 - Mystery Function
@@ -277,5 +277,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjY4MTkyOV19
+eyJoaXN0b3J5IjpbMTI1NTQzMTkxXX0=
 -->
