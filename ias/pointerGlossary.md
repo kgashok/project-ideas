@@ -71,11 +71,11 @@ Very important counter-perspective to read:
 #### Quiz 0 - Pointer basics 
 
 ```c
-	int a[10]; // defining an array
-	assert(a == &a[0]); 
+int a[10]; // defining an array
+assert(a == &a[0]); 
 
-	int *b = &a[9]; 
-	assert(a != b-9); 	
+int *b = &a[9]; 
+assert(a != b-9); 	
 ```
 
 The 1st `assert` in the above code snippet will 
@@ -309,5 +309,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzE5OTQ4NV19
+eyJoaXN0b3J5IjpbMTg5Njk4MzQ0M119
 -->
