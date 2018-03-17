@@ -51,7 +51,7 @@ Very important counter-perspective to read:
 |Memory location value | Memory Address | Any physical memory location which can be accessed by the CPU | Any hexadecimal number between a range, say 0x1000 -> 0x10000 |
 |Memory variable | Data variable | A human-defined name that might refer to one or more memory locations depending upon the type | **int a;** // 4 bytes starting at `0xbf943434` |
 |Dereferencing | - | Using the `*` operator, retrieve or store a value in the memory location pointed to by the pointer variable | `*pA = 400;` | 
-|Pointer in the LHS (left hand side) | - | Store data in the memory location pointed to | `*ppA = 23 + 39023;` 
+|Pointer in the LHS (left hand side) of assignment statement | - | Store data in the memory location pointed to | `*ppA = 23 + 39023;` 
 |Pointer in the RHS (right hand side) | - | Retrieve data from the memory location pointed to | `int v = *ppA + 23;`  
 |Invalid pointer assignments | - | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
 |Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, `pA = pB;`  |
@@ -309,5 +309,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODAzNjYyNV19
+eyJoaXN0b3J5IjpbMTQzNzU4MjAyOF19
 -->
