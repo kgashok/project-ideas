@@ -264,6 +264,10 @@ What does the above function do?
 3. Will execute forever 
 4. None of the above 
 
+
+#### Quiz 11 - Write your own 
+
+
 ### What next?
 
 Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one here at http://bit.ly/pointerKITE. 
@@ -309,5 +313,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njk4MzQ0M119
+eyJoaXN0b3J5IjpbNzM5NzY3ODk3XX0=
 -->
