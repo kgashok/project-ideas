@@ -267,10 +267,11 @@ What does the above function do?
 
 #### Quiz 11 - Write a size function for int array
 
-It is possible to write a function `arraylen(int arr[])` 
+**"It is possible to write a function `arraylen(int arr[])` 
 (similar to `strlen`) which will return the length of 
-the integer array. This statement is 
+the integer array."** 
 
+The above statement is 
 1. True
 2. False 
 3. Indeterminable 
@@ -325,5 +326,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNDE1MDldfQ==
+eyJoaXN0b3J5IjpbMTgyMjk5ODM3OV19
 -->
