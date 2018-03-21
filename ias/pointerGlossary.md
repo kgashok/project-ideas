@@ -274,7 +274,8 @@ the integer array. This statement is
 1. True
 2. False 
 3. Indeterminable 
-4. Not necessary - `strlen` will itself do th
+4. Not necessary - `strlen` will itself do the job 
+
 
 
 
@@ -324,5 +325,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODg0Mzg1MV19
+eyJoaXN0b3J5IjpbNjIwNDE1MDldfQ==
 -->
