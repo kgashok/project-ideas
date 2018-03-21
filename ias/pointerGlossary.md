@@ -265,7 +265,12 @@ What does the above function do?
 4. None of the above 
 
 
-#### Quiz 11 - Write your own 
+#### Quiz 11 - Write a size function for int array
+
+It is possible to write a function `arraylen(int arr[])` which
+will return the length of the integer array. 
+
+
 
 
 ### What next?
@@ -313,5 +318,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5NzY3ODk3XX0=
+eyJoaXN0b3J5IjpbNDQ0NTkxMzM4XX0=
 -->
