@@ -266,6 +266,12 @@ What does the above function do?
 
 #### Quiz 10 b - Mystery Function 7
 
+What does the above function do? 
+1. Will compile but won't do anything useful 
+2. Finds the first character that is part of `s2` that occurs in `s1`
+3. Will execute forever 
+4. None of the above 
+
 #### Quiz 11 - Write a size function for int array
 
 **"It is possible to write a function `arraylen(int arr[])` 
@@ -327,5 +333,6 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
+eyJoaXN0b3J5IjpbLTE1MDIyMzExMTcsMjE5Mjc4MTg0LDE4Mj
+I5OTgzNzldfQ==
 -->
