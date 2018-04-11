@@ -267,11 +267,11 @@ What does the above function do?
 
 #### Quiz 10 b - Mystery Function 7
 
-![quiz8](j.mp/mystery_func9)  
+![quiz8](http://bit.ly/mystery_func9)  
 
 What does the above function do? 
 1. Will compile but won't do anything useful 
-2. Finds the first character that is part of `s2` that occurs in `s1`
+2. Concatenates `s` to the end of `d`
 3. Will execute forever 
 4. None of the above 
 
@@ -336,6 +336,6 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ1MjQ1NjMsLTQxMzg0OTk4NSwyMT
-kyNzgxODQsMTgyMjk5ODM3OV19
+eyJoaXN0b3J5IjpbLTk3MzQxMjUyNiwtNDEzODQ5OTg1LDIxOT
+I3ODE4NCwxODIyOTk4Mzc5XX0=
 -->
