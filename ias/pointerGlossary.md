@@ -329,11 +329,11 @@ The above statement is
 # Context
 
 - dynamic memory management (malloc, memset) - **pointers** are used as a handle for storing such memory locations.
-- data structures like linked list, queues
+	- data structures like **linked list, queues**
 - **Pointers** that are require to traverse and manipulate linear data structures 
-- Data structures like trees, graphs
+	- data structures like **trees, graphs**
 - **Pointers** and recursive functions/algorithms which are required to manipulate recursive data structures
-	- finding the shortest path from Destination A to B 
+	- finding the shortest path from Destination A to Destination B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
 
@@ -341,8 +341,9 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODk0MTk3NCwtMTM1ODM4NTM5OCwxND
-Y2MTA0MTY4LDkxNDE2MDExMCw3OTEyNTM0NDAsMTE4NDM4ODg0
-MywtODc2MTU3MTU3LC0xMDQ3NTcxNzY4LDE0OTQ2NzQ1NTIsLT
-QxMzg0OTk4NSwyMTkyNzgxODQsMTgyMjk5ODM3OV19
+eyJoaXN0b3J5IjpbLTE5ODQ0MTE3NiwtNDc4OTQxOTc0LC0xMz
+U4Mzg1Mzk4LDE0NjYxMDQxNjgsOTE0MTYwMTEwLDc5MTI1MzQ0
+MCwxMTg0Mzg4ODQzLC04NzYxNTcxNTcsLTEwNDc1NzE3NjgsMT
+Q5NDY3NDU1MiwtNDEzODQ5OTg1LDIxOTI3ODE4NCwxODIyOTk4
+Mzc5XX0=
 -->
