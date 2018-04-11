@@ -278,7 +278,7 @@ What does the above function do?
 3. Will execute forever 
 4. None of the above 
 
-#### Quiz 11 - Write a size function for int array
+#### Quiz 11 - size function for int array
 
 **"It is possible to write a function `arraylen(int arr[])` 
 (similar to `strlen`) which will return the length of 
@@ -341,8 +341,8 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgzODUzOTgsMTQ2NjEwNDE2OCw5MT
-QxNjAxMTAsNzkxMjUzNDQwLDExODQzODg4NDMsLTg3NjE1NzE1
-NywtMTA0NzU3MTc2OCwxNDk0Njc0NTUyLC00MTM4NDk5ODUsMj
-E5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
+eyJoaXN0b3J5IjpbLTQ3ODk0MTk3NCwtMTM1ODM4NTM5OCwxND
+Y2MTA0MTY4LDkxNDE2MDExMCw3OTEyNTM0NDAsMTE4NDM4ODg0
+MywtODc2MTU3MTU3LC0xMDQ3NTcxNzY4LDE0OTQ2NzQ1NTIsLT
+QxMzg0OTk4NSwyMTkyNzgxODQsMTgyMjk5ODM3OV19
 -->
