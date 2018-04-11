@@ -294,7 +294,9 @@ The above statement is
 
 ## What next?
 
-Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one here at http://bit.ly/pointerKITE. 
+- Go through the tutorial at https://overiq.com/c-programming/101/pointer-basics-in-c/
+- Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. 
+- For a good problem set, try this one here at http://bit.ly/pointerKITE. 
 
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
@@ -337,7 +339,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjE1NzE1NywtMTA0NzU3MTc2OCwxND
-k0Njc0NTUyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgz
-NzldfQ==
+eyJoaXN0b3J5IjpbMTE4NDM4ODg0MywtODc2MTU3MTU3LC0xMD
+Q3NTcxNzY4LDE0OTQ2NzQ1NTIsLTQxMzg0OTk4NSwyMTkyNzgx
+ODQsMTgyMjk5ODM3OV19
 -->
