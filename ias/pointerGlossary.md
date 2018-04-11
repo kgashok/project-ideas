@@ -1,4 +1,6 @@
 
+Need a ToC? Visit http://j.mp/pointerFunda 
+
 # Pointer Glossary
 - Take a look at http://j.mp/pointerGrok as well.  
 - Take a look at the [Pointer Chapter](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html) on Pebble 
@@ -339,7 +341,8 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0MTYwMTEwLDc5MTI1MzQ0MCwxMTg0Mz
-g4ODQzLC04NzYxNTcxNTcsLTEwNDc1NzE3NjgsMTQ5NDY3NDU1
-MiwtNDEzODQ5OTg1LDIxOTI3ODE4NCwxODIyOTk4Mzc5XX0=
+eyJoaXN0b3J5IjpbMTQ2NjEwNDE2OCw5MTQxNjAxMTAsNzkxMj
+UzNDQwLDExODQzODg4NDMsLTg3NjE1NzE1NywtMTA0NzU3MTc2
+OCwxNDk0Njc0NTUyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4Mj
+I5OTgzNzldfQ==
 -->
