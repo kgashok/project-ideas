@@ -65,7 +65,7 @@ Very important counter-perspective to read:
 [call by value in C]: http://j.mp/callByValueC
 [operator overloading why?]:  http://www.stroustrup.com/bs_faq2.html#pointers-and-references
 
-### Code Quiz
+## Code Quiz
 
 [TOC]
 
@@ -292,7 +292,7 @@ The above statement is
 
 
 
-### What next?
+## What next?
 
 Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one here at http://bit.ly/pointerKITE. 
 
@@ -322,7 +322,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
  - Use **Pointers to operate** on Linear data structures (like Linked lists, and Queues) 
     - Solve problems in CloudCoder (such as `create`, `traverse`, etc ) from http://j.mp/pointerKITE 
 
-### Context
+## Context
 
 - dynamic memory management (malloc, memset) - **pointers** are used as a handle for storing such memory locations.
 - data structures like linked list, queues
@@ -337,6 +337,7 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc1NzE3NjgsMTQ5NDY3NDU1MiwtND
-EzODQ5OTg1LDIxOTI3ODE4NCwxODIyOTk4Mzc5XX0=
+eyJoaXN0b3J5IjpbLTg3NjE1NzE1NywtMTA0NzU3MTc2OCwxND
+k0Njc0NTUyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgz
+NzldfQ==
 -->
