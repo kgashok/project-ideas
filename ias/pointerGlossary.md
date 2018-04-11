@@ -264,7 +264,10 @@ What does the above function do?
 3. Will execute forever 
 4. None of the above 
 
+
 #### Quiz 10 b - Mystery Function 7
+
+![quiz8](http://j.mp/mystery_func7) 
 
 What does the above function do? 
 1. Will compile but won't do anything useful 
@@ -333,6 +336,6 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIyMzExMTcsMjE5Mjc4MTg0LDE4Mj
-I5OTgzNzldfQ==
+eyJoaXN0b3J5IjpbLTU4MzMzNDA0MywyMTkyNzgxODQsMTgyMj
+k5ODM3OV19
 -->
