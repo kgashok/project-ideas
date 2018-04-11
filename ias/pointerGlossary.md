@@ -299,10 +299,9 @@ The above statement is
 
 ## Pointer Camp  http://bit.ly/pointerKITE
 
-![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
-
-
 ## Lecture Notes
+
+![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
 1. **What is a pointer?** It is a number.
 
@@ -340,7 +339,7 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMjUzNDQwLDExODQzODg4NDMsLTg3Nj
-E1NzE1NywtMTA0NzU3MTc2OCwxNDk0Njc0NTUyLC00MTM4NDk5
-ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
+eyJoaXN0b3J5IjpbOTE0MTYwMTEwLDc5MTI1MzQ0MCwxMTg0Mz
+g4ODQzLC04NzYxNTcxNTcsLTEwNDc1NzE3NjgsMTQ5NDY3NDU1
+MiwtNDEzODQ5OTg1LDIxOTI3ODE4NCwxODIyOTk4Mzc5XX0=
 -->
