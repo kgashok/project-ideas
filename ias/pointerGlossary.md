@@ -264,6 +264,7 @@ What does the above function do?
 3. Will execute forever 
 4. None of the above 
 
+#### Quiz 10 b - Mystery Function 7
 
 #### Quiz 11 - Write a size function for int array
 
@@ -326,5 +327,5 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjk5ODM3OV19
+eyJoaXN0b3J5IjpbMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 -->
