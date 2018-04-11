@@ -1,5 +1,5 @@
 
-Need a ToC? Visit http://j.mp/pointerFunda 
+Need a ToC? Visit bit.ly/pointerFundamentals
 
 # Pointer Glossary
 - Take a look at http://j.mp/pointerGrok as well.  
@@ -341,9 +341,9 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ0MTE3NiwtNDc4OTQxOTc0LC0xMz
-U4Mzg1Mzk4LDE0NjYxMDQxNjgsOTE0MTYwMTEwLDc5MTI1MzQ0
-MCwxMTg0Mzg4ODQzLC04NzYxNTcxNTcsLTEwNDc1NzE3NjgsMT
-Q5NDY3NDU1MiwtNDEzODQ5OTg1LDIxOTI3ODE4NCwxODIyOTk4
-Mzc5XX0=
+eyJoaXN0b3J5IjpbLTU3MDEzODE2NSwtMTk4NDQxMTc2LC00Nz
+g5NDE5NzQsLTEzNTgzODUzOTgsMTQ2NjEwNDE2OCw5MTQxNjAx
+MTAsNzkxMjUzNDQwLDExODQzODg4NDMsLTg3NjE1NzE1NywtMT
+A0NzU3MTc2OCwxNDk0Njc0NTUyLC00MTM4NDk5ODUsMjE5Mjc4
+MTg0LDE4MjI5OTgzNzldfQ==
 -->
