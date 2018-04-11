@@ -271,7 +271,7 @@ What does the above function do?
 
 What does the above function do? 
 1. Will compile but won't do anything useful 
-2. Concatenates `s` to the end of `d`
+2. copies contents of `s` at the end of `d`
 3. Will execute forever 
 4. None of the above 
 
@@ -336,6 +336,6 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzQxMjUyNiwtNDEzODQ5OTg1LDIxOT
+eyJoaXN0b3J5IjpbMTQ5NDY3NDU1MiwtNDEzODQ5OTg1LDIxOT
 I3ODE4NCwxODIyOTk4Mzc5XX0=
 -->
