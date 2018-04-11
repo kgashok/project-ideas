@@ -1,4 +1,5 @@
 
+# Pointer Glossary
 - Take a look at http://j.mp/pointerGrok as well.  
 - Take a look at the [Pointer Chapter](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html) on Pebble 
 
@@ -336,6 +337,6 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDY3NDU1MiwtNDEzODQ5OTg1LDIxOT
-I3ODE4NCwxODIyOTk4Mzc5XX0=
+eyJoaXN0b3J5IjpbLTEwNDc1NzE3NjgsMTQ5NDY3NDU1MiwtND
+EzODQ5OTg1LDIxOTI3ODE4NCwxODIyOTk4Mzc5XX0=
 -->
