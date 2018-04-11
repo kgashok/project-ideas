@@ -301,7 +301,7 @@ The above statement is
 
 ## Pointer Camp  http://bit.ly/pointerKITE
 
-## Lecture Notes
+# Lecture Notes
 
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
@@ -326,7 +326,7 @@ The above statement is
  - Use **Pointers to operate** on Linear data structures (like Linked lists, and Queues) 
     - Solve problems in CloudCoder (such as `create`, `traverse`, etc ) from http://j.mp/pointerKITE 
 
-## Context
+# Context
 
 - dynamic memory management (malloc, memset) - **pointers** are used as a handle for storing such memory locations.
 - data structures like linked list, queues
@@ -341,8 +341,8 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjEwNDE2OCw5MTQxNjAxMTAsNzkxMj
-UzNDQwLDExODQzODg4NDMsLTg3NjE1NzE1NywtMTA0NzU3MTc2
-OCwxNDk0Njc0NTUyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4Mj
-I5OTgzNzldfQ==
+eyJoaXN0b3J5IjpbLTEzNTgzODUzOTgsMTQ2NjEwNDE2OCw5MT
+QxNjAxMTAsNzkxMjUzNDQwLDExODQzODg4NDMsLTg3NjE1NzE1
+NywtMTA0NzU3MTc2OCwxNDk0Njc0NTUyLC00MTM4NDk5ODUsMj
+E5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 -->
