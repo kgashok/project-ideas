@@ -208,7 +208,7 @@ With reference to `Line 24`, the output will be:
 3. Undefined behavior
 4. Any one of the above
 	 
-	 > Spoiler Alert: http://stackoverflow.com/a/3524270/307454
+Spoiler Alert: http://stackoverflow.com/a/3524270/307454
 
 ##### Quiz 5.3 
 The only kind of arithmetic that is allowed between two pointers: 
@@ -341,10 +341,11 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTU0ODg4MywtMTA3MTQwMTAyNCwyMT
-IxODU0MDU0LC0xNjAwMDc2MjgyLC01NzAxMzgxNjUsLTE5ODQ0
-MTE3NiwtNDc4OTQxOTc0LC0xMzU4Mzg1Mzk4LDE0NjYxMDQxNj
-gsOTE0MTYwMTEwLDc5MTI1MzQ0MCwxMTg0Mzg4ODQzLC04NzYx
-NTcxNTcsLTEwNDc1NzE3NjgsMTQ5NDY3NDU1MiwtNDEzODQ5OT
-g1LDIxOTI3ODE4NCwxODIyOTk4Mzc5XX0=
+eyJoaXN0b3J5IjpbLTk1Mjc5ODQ2OSwtNjE1NTQ4ODgzLC0xMD
+cxNDAxMDI0LDIxMjE4NTQwNTQsLTE2MDAwNzYyODIsLTU3MDEz
+ODE2NSwtMTk4NDQxMTc2LC00Nzg5NDE5NzQsLTEzNTgzODUzOT
+gsMTQ2NjEwNDE2OCw5MTQxNjAxMTAsNzkxMjUzNDQwLDExODQz
+ODg4NDMsLTg3NjE1NzE1NywtMTA0NzU3MTc2OCwxNDk0Njc0NT
+UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
+
 -->
