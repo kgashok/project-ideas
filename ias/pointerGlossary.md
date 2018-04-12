@@ -274,7 +274,7 @@ What does the above function do?
 
 What does the above function do? 
 1. Will compile but won't do anything useful 
-2. copies contents of `s` at the end of `d`
+2. copies contents of `s` at the end of `d` (with one small code change)
 3. Will execute forever 
 4. None of the above 
 
@@ -341,10 +341,10 @@ The above statement is
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE0MDEwMjQsMjEyMTg1NDA1NCwtMT
-YwMDA3NjI4MiwtNTcwMTM4MTY1LC0xOTg0NDExNzYsLTQ3ODk0
-MTk3NCwtMTM1ODM4NTM5OCwxNDY2MTA0MTY4LDkxNDE2MDExMC
-w3OTEyNTM0NDAsMTE4NDM4ODg0MywtODc2MTU3MTU3LC0xMDQ3
-NTcxNzY4LDE0OTQ2NzQ1NTIsLTQxMzg0OTk4NSwyMTkyNzgxOD
-QsMTgyMjk5ODM3OV19
+eyJoaXN0b3J5IjpbLTYxNTU0ODg4MywtMTA3MTQwMTAyNCwyMT
+IxODU0MDU0LC0xNjAwMDc2MjgyLC01NzAxMzgxNjUsLTE5ODQ0
+MTE3NiwtNDc4OTQxOTc0LC0xMzU4Mzg1Mzk4LDE0NjYxMDQxNj
+gsOTE0MTYwMTEwLDc5MTI1MzQ0MCwxMTg0Mzg4ODQzLC04NzYx
+NTcxNTcsLTEwNDc1NzE3NjgsMTQ5NDY3NDU1MiwtNDEzODQ5OT
+g1LDIxOTI3ODE4NCwxODIyOTk4Mzc5XX0=
 -->
