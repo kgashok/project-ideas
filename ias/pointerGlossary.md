@@ -335,16 +335,16 @@ The above statement is
 	- finding the shortest path from Destination A to Destination B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
-![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
+![DoBetter](http://bit.ly/canDoBetter)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzQwNTczNCwyMTIxODU0MDU0LC0xNj
-AwMDc2MjgyLC01NzAxMzgxNjUsLTE5ODQ0MTE3NiwtNDc4OTQx
-OTc0LC0xMzU4Mzg1Mzk4LDE0NjYxMDQxNjgsOTE0MTYwMTEwLD
-c5MTI1MzQ0MCwxMTg0Mzg4ODQzLC04NzYxNTcxNTcsLTEwNDc1
-NzE3NjgsMTQ5NDY3NDU1MiwtNDEzODQ5OTg1LDIxOTI3ODE4NC
-wxODIyOTk4Mzc5XX0=
+eyJoaXN0b3J5IjpbLTEwNzE0MDEwMjQsMjEyMTg1NDA1NCwtMT
+YwMDA3NjI4MiwtNTcwMTM4MTY1LC0xOTg0NDExNzYsLTQ3ODk0
+MTk3NCwtMTM1ODM4NTM5OCwxNDY2MTA0MTY4LDkxNDE2MDExMC
+w3OTEyNTM0NDAsMTE4NDM4ODg0MywtODc2MTU3MTU3LC0xMDQ3
+NTcxNzY4LDE0OTQ2NzQ1NTIsLTQxMzg0OTk4NSwyMTkyNzgxOD
+QsMTgyMjk5ODM3OV19
 -->
