@@ -303,7 +303,6 @@ The above statement is
 
 # Lecture Notes
 
-![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
 1. **What is a pointer?** It is a number.
 
@@ -336,15 +335,16 @@ The above statement is
 	- finding the shortest path from Destination A to Destination B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
+![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTg1NDA1NCwtMTYwMDA3NjI4MiwtNT
-cwMTM4MTY1LC0xOTg0NDExNzYsLTQ3ODk0MTk3NCwtMTM1ODM4
-NTM5OCwxNDY2MTA0MTY4LDkxNDE2MDExMCw3OTEyNTM0NDAsMT
-E4NDM4ODg0MywtODc2MTU3MTU3LC0xMDQ3NTcxNzY4LDE0OTQ2
-NzQ1NTIsLTQxMzg0OTk4NSwyMTkyNzgxODQsMTgyMjk5ODM3OV
-19
+eyJoaXN0b3J5IjpbMTQ3NzQwNTczNCwyMTIxODU0MDU0LC0xNj
+AwMDc2MjgyLC01NzAxMzgxNjUsLTE5ODQ0MTE3NiwtNDc4OTQx
+OTc0LC0xMzU4Mzg1Mzk4LDE0NjYxMDQxNjgsOTE0MTYwMTEwLD
+c5MTI1MzQ0MCwxMTg0Mzg4ODQzLC04NzYxNTcxNTcsLTEwNDc1
+NzE3NjgsMTQ5NDY3NDU1MiwtNDEzODQ5OTg1LDIxOTI3ODE4NC
+wxODIyOTk4Mzc5XX0=
 -->
