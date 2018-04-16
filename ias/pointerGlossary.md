@@ -335,7 +335,8 @@ The above statement is
 	- finding the shortest path from Destination A to Destination B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
-![doBetter](http://j.mp/canDoBetter)
+![doBetter](http://j.mp/canDoBetter)  
+  
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
@@ -350,5 +351,5 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI4NjE5MjVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzU5MzExMjddfQ==
 -->
