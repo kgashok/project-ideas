@@ -335,7 +335,7 @@ The above statement is
 	- finding the shortest path from Destination A to Destination B 
 	- searching and inserting data into data structures for efficient retrieval and modifications 
 
-![DoBetter](http://bit.ly/canDoBetter)
+![img](https://camo.githubusercontent.com/f9af65aa3a3b03c6e8a5d0656b363d7a9398f14b/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d30427775346947506659457566656a52686232704d516c3835654738)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119
