@@ -291,6 +291,8 @@ The above statement is
 4. Not necessary - `strlen` will itself do the job 
 
 
+#### Quiz 12  - what does this function do? 
+
 
 
 
@@ -351,5 +353,6 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTkyMjM2MywtMTAzNTkzMTEyN119
+eyJoaXN0b3J5IjpbLTU1NjY3ODIxMywxMDIxOTIyMzYzLC0xMD
+M1OTMxMTI3XX0=
 -->
