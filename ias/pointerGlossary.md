@@ -293,6 +293,8 @@ The above statement is
 
 #### Quiz 12  - what does this function do? 
 
+![mystery12](http://j.mp/stringLenInOneLine)
+
 
 
 
@@ -353,6 +355,6 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjY3ODIxMywxMDIxOTIyMzYzLC0xMD
-M1OTMxMTI3XX0=
+eyJoaXN0b3J5IjpbMjk3MTM5Mzk4LDEwMjE5MjIzNjMsLTEwMz
+U5MzExMjddfQ==
 -->
