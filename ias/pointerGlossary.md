@@ -296,8 +296,6 @@ The above statement is
 ![mystery12](http://j.mp/stringLenInOneLine)
 
 
-
-
 ## What next?
 
 - Use [Pointer Koans](https://github.com/kgashok/CppKoans/blob/master/koans/koan05_pointers.cpp) to reflect on pointer concepts by reading/write simple pointer code
@@ -356,6 +354,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjYwOTM0MCwtMTUzMTA1MTg2OSwyOT
-cxMzkzOTgsMTAyMTkyMjM2MywtMTAzNTkzMTEyN119
+eyJoaXN0b3J5IjpbLTg3MzUxNTY3MiwtNDUyNjA5MzQwLC0xNT
+MxMDUxODY5LDI5NzEzOTM5OCwxMDIxOTIyMzYzLC0xMDM1OTMx
+MTI3XX0=
 -->
