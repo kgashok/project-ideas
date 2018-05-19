@@ -1,5 +1,5 @@
 
-Need a ToC? Visit j.mp/pointerStart
+Need a ToC? Visit http://j.mp/pointerStart
 
 # Pointer Glossary
 - Take a look at http://j.mp/pointerGrok as well.  
@@ -355,6 +355,6 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MTM5Mzk4LDEwMjE5MjIzNjMsLTEwMz
-U5MzExMjddfQ==
+eyJoaXN0b3J5IjpbLTE1MzEwNTE4NjksMjk3MTM5Mzk4LDEwMj
+E5MjIzNjMsLTEwMzU5MzExMjddfQ==
 -->
