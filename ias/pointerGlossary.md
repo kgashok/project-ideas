@@ -298,7 +298,7 @@ The above statement is
 
 ## What next?
 
-- Use [Pointer Koans](https://github.com/kgashok/CppKoans/blob/master/koans/koan05_pointers.cpp) to reflect on pointer concepts by reading/write simple pointer code
+- Use [Pointer Koans](https://github.com/kgashok/CppKoans/blob/master/koans/koan05_pointers.cpp) to reflect on pointer concepts by reading/writing simple pointer code
 	- > ![koans](http://j.mp/pointerKoans)
 - Go through the tutorial at https://overiq.com/c-programming/101/pointer-basics-in-c/
 - Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. 
@@ -355,7 +355,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjgwNDYxMCwtODczNTE1NjcyLC00NT
-I2MDkzNDAsLTE1MzEwNTE4NjksMjk3MTM5Mzk4LDEwMjE5MjIz
-NjMsLTEwMzU5MzExMjddfQ==
+eyJoaXN0b3J5IjpbMjAyNDgyNzUxLDE5MzY4MDQ2MTAsLTg3Mz
+UxNTY3MiwtNDUyNjA5MzQwLC0xNTMxMDUxODY5LDI5NzEzOTM5
+OCwxMDIxOTIyMzYzLC0xMDM1OTMxMTI3XX0=
 -->
