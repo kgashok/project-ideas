@@ -8,7 +8,8 @@ Need a ToC? Visit http://j.mp/pointerStart
 ![joke](https://imgs.xkcd.com/comics/pointers.png)
 
 
-**Table of Contents**
+## Table of Contents
+
 * [Pointers](#pointers)  
 	* [Integers and Integer variables (Known)](#integers-and-integer-variables-known)  
 	* [Pointers and pointer variables (Unknown)](#pointers-and-pointer-variables-unknown)  
@@ -68,8 +69,6 @@ Very important counter-perspective to read:
 [operator overloading why?]:  http://www.stroustrup.com/bs_faq2.html#pointers-and-references
 
 ## Code Quiz
-
-[TOC]
 
 #### Quiz 0 - Pointer basics 
 
@@ -355,7 +354,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDgyNzUxLDE5MzY4MDQ2MTAsLTg3Mz
-UxNTY3MiwtNDUyNjA5MzQwLC0xNTMxMDUxODY5LDI5NzEzOTM5
-OCwxMDIxOTIyMzYzLC0xMDM1OTMxMTI3XX0=
+eyJoaXN0b3J5IjpbLTE3MTYwNjg1ODMsMjAyNDgyNzUxLDE5Mz
+Y4MDQ2MTAsLTg3MzUxNTY3MiwtNDUyNjA5MzQwLC0xNTMxMDUx
+ODY5LDI5NzEzOTM5OCwxMDIxOTIyMzYzLC0xMDM1OTMxMTI3XX
+0=
 -->
