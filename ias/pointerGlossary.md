@@ -24,7 +24,7 @@ Need a ToC? Visit http://j.mp/pointerStart
 		* [Quiz 6  - Mystery](#quiz-6---mystery-function)  
 
 	* Bug Fix
-		* http://j.mp/bugFix1, http://j.mp/bugFix2, http://j.mp/bugFix3 and http://j.mp/bugFix4
+		* http://j.mp/bugFix1, http://j.mp/bugFix2, http://j.mp/bugfix3 and http://j.mp/bugFix4
 
 	* [What next?](#what-next)  
 
@@ -354,8 +354,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYwNjg1ODMsMjAyNDgyNzUxLDE5Mz
-Y4MDQ2MTAsLTg3MzUxNTY3MiwtNDUyNjA5MzQwLC0xNTMxMDUx
-ODY5LDI5NzEzOTM5OCwxMDIxOTIyMzYzLC0xMDM1OTMxMTI3XX
-0=
+eyJoaXN0b3J5IjpbMjc4MDM5Mjg5LC0xNzE2MDY4NTgzLDIwMj
+Q4Mjc1MSwxOTM2ODA0NjEwLC04NzM1MTU2NzIsLTQ1MjYwOTM0
+MCwtMTUzMTA1MTg2OSwyOTcxMzkzOTgsMTAyMTkyMjM2MywtMT
+AzNTkzMTEyN119
 -->
