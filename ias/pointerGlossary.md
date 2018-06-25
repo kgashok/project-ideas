@@ -262,7 +262,7 @@ What does the above function do?
 
 What does the above function do? 
 1. Will compile but won't do anything useful 
-2. Finds the offset of the any character that is part of `s2` that occurs in `s1`
+2. Returns the location of any character that is part of `s2` that occurs in `s1`
 3. Will execute forever 
 4. None of the above 
 
@@ -354,8 +354,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzUyNzA4MiwyNzgwMzkyODksLTE3MT
-YwNjg1ODMsMjAyNDgyNzUxLDE5MzY4MDQ2MTAsLTg3MzUxNTY3
-MiwtNDUyNjA5MzQwLC0xNTMxMDUxODY5LDI5NzEzOTM5OCwxMD
-IxOTIyMzYzLC0xMDM1OTMxMTI3XX0=
+eyJoaXN0b3J5IjpbLTE2MDIzNzAxNDQsMjc4MDM5Mjg5LC0xNz
+E2MDY4NTgzLDIwMjQ4Mjc1MSwxOTM2ODA0NjEwLC04NzM1MTU2
+NzIsLTQ1MjYwOTM0MCwtMTUzMTA1MTg2OSwyOTcxMzkzOTgsMT
+AyMTkyMjM2MywtMTAzNTkzMTEyN119
 -->
