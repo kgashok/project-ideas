@@ -236,7 +236,7 @@ What does the above function do?
 3. Simply swaps all characters in-place
 4. None of the above
 
-#### Quiz 8 - Mystery Function 4
+## Quiz 8 - Mystery Function 4
 
 ![quiz7](http://j.mp/mystery_func4) 
 
@@ -246,7 +246,7 @@ What does the above function do?
 3. Traverses to the end of the linked list and returns the **tail** node 
 4. None of the above
 
-#### Quiz 9 - Mystery Function 5
+## Quiz 9 - Mystery Function 5
 
 ![quiz7](http://j.mp/mystery_func5) 
 
@@ -256,7 +256,7 @@ What does the above function do?
 3. Sums up all the integers in the array into `val` and returns it
 4. None of the above
 
-#### Quiz 10 - Mystery Function 6
+## Quiz 10 - Mystery Function 6
 
 ![quiz7](http://j.mp/mystery_func6) 
 
@@ -267,7 +267,7 @@ What does the above function do?
 4. None of the above 
 
 
-#### Quiz 10 b - Mystery Function 7
+## Quiz 10 b - Mystery Function 7
 
 ![quiz8](http://bit.ly/mystery_func9)  
 
@@ -277,7 +277,7 @@ What does the above function do?
 3. Will execute forever 
 4. None of the above 
 
-#### Quiz 11 - size function for int array
+## Quiz 11 - size function for int array
 
 **"It is possible to write a function `arraylen(int arr[])` 
 (similar to `strlen`) which will return the length of 
@@ -290,7 +290,7 @@ The above statement is
 4. Not necessary - `strlen` will itself do the job 
 
 
-#### Quiz 12  - what does this function do? 
+## Quiz 12  - what does this function do? 
 
 ![mystery12](http://j.mp/stringLenInOneLine)
 
@@ -298,7 +298,7 @@ The above statement is
 ![mystery13](http://j.mp/mysteryFunc13)
 
 
-## What next?
+# What next?
 
 - Use [Pointer Koans](https://github.com/kgashok/CppKoans/blob/master/koans/koan05_pointers.cpp) to reflect on pointer concepts by reading/writing simple pointer code
 	- > ![koans](http://j.mp/pointerKoans)
@@ -357,6 +357,6 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzIzMTkzMywyMDA5NTUzNjMsMTE1Mz
+eyJoaXN0b3J5IjpbMTQ1NzAwOTI1MCwyMDA5NTUzNjMsMTE1Mz
 IzNjQxNSwtMTYwMjM3MDE0NF19
 -->
