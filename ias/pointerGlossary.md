@@ -70,7 +70,7 @@ Very important counter-perspective to read:
 
 ## Code Quiz
 
-#### Quiz 0 - Pointer basics 
+## Quiz 0 - Pointer basics 
 
 ```c
 int a[10]; // defining an array
@@ -94,7 +94,7 @@ The 2nd `assert` in the above code snippet will
 
 
 
-#### Quiz 1  - Pointer basics
+## Quiz 1  - Pointer basics
 ```cpp
 int b; 
 int* pA;
@@ -110,7 +110,7 @@ The string displayed is
 4. Non-determinable because integer `b` is not initialized 
 ```
 
-#### Quiz 2  - Pointer basics
+## Quiz 2  - Pointer basics
 ```cpp
 char buf[] = "this is a long string"; 
 char* pBuf = buf; 
@@ -129,7 +129,7 @@ The 2-line output in the display is:
 3. Non-determinable and "t" 
 ```
 
-#### Quiz 3  - Swap using Pointers
+## Quiz 3  - Swap using Pointers
 ```cLang
 #include <stdio.h> 
 #include <stdlib.h> 
@@ -178,17 +178,17 @@ Assume you've entered the appropriate code for the `swap` function above. The co
 5. None of the above   
 
 
-#### Quiz 4  - Bug Finder 
+## Quiz 4  - Bug Finder 
 
 ![substring](https://rawgit.com/kgisl/project-ideas/master/ias/subString.png)
 
 The above program is almost **perfect** in that it defines a `substring` function which returns a substring of the input ("CatDogMonkey") starting from index 3 and of length 4.  Except there is one small yet major flaw. What is the error? 
 
-#### Quiz 5  - Printer Arithmetic
+## Quiz 5  - Printer Arithmetic
 
 ![arithmetic](https://rawgit.com/kgisl/project-ideas/master/ias/printerArithmetic.png)
 
-##### Question 5.1
+### Question 5.1
 If the output at Line 19 (the first `printf` statement) is: 
 `0x400694 0xfff000ba0 0xfff000b60`
 
@@ -199,7 +199,7 @@ then the output at Line 20 (the next `printf` statement) is:
 2. `0x400695 0xfff000ba4 0xfff000b74`
 3. None of the above 
 
-##### Question 5.2
+### Question 5.2
 With reference to `Line 24`, the output will be: 
 
 1. `0xfff000ba1`
@@ -209,7 +209,7 @@ With reference to `Line 24`, the output will be:
 	 
 Spoiler Alert: http://stackoverflow.com/a/3524270/307454
 
-##### Quiz 5.3 
+### Quiz 5.3 
 The only kind of arithmetic that is allowed between two pointers: 
 1. Addition and Subtraction of two pointers
 2. Multiplication and Division of two pointers
@@ -217,7 +217,7 @@ The only kind of arithmetic that is allowed between two pointers:
 4. Only subtraction between two pointers
 
 
-#### Quiz 6 - Mystery Function
+## Quiz 6 - Mystery Function
 
 ![mystery](https://files.gitter.im/kgashok/advik/NkvR/Screenshot-2018-03-10-at-08.13.29.png)
 What does the above function do? 
@@ -226,7 +226,7 @@ What does the above function do?
 3. Calculates the length of `arr` 
 4. None of the above
 
-#### Quiz 7 - Mystery Function 3
+## Quiz 7 - Mystery Function 3
 
 ![quiz7](http://j.mp/mystery_func3) 
 
@@ -357,6 +357,6 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MD
-IzNzAxNDRdfQ==
+eyJoaXN0b3J5IjpbLTk1MzIzMTkzMywyMDA5NTUzNjMsMTE1Mz
+IzNjQxNSwtMTYwMjM3MDE0NF19
 -->
