@@ -294,7 +294,7 @@ The above statement is
 
 ![mystery12](http://j.mp/stringLenInOneLine)
 
-#### Quiz 13  - what does this function do? 
+## Quiz 13  - what does this function do? 
 ![mystery13](http://j.mp/mysteryFunc13)
 
 
@@ -357,6 +357,6 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzAwOTI1MCwyMDA5NTUzNjMsMTE1Mz
-IzNjQxNSwtMTYwMjM3MDE0NF19
+eyJoaXN0b3J5IjpbODU5NDkyOTMwLDE0NTcwMDkyNTAsMjAwOT
+U1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ==
 -->
