@@ -297,7 +297,7 @@ The above statement is
 ## Quiz 13  - what does this function do? 
 ![mystery13](http://j.mp/mysteryFunc13)
 
-## Quiz 14 - what this function do? 
+## Quiz 14 - what does this function do? 
 ![mystery14](http://j.mp/mysteryFunc14)
 
 # What next?
@@ -359,7 +359,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwODE0MzExLC0xNDQ3NDQ1MzkzLDg1OT
-Q5MjkzMCwxNDU3MDA5MjUwLDIwMDk1NTM2MywxMTUzMjM2NDE1
-LC0xNjAyMzcwMTQ0XX0=
+eyJoaXN0b3J5IjpbMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0ND
+c0NDUzOTMsODU5NDkyOTMwLDE0NTcwMDkyNTAsMjAwOTU1MzYz
+LDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ==
 -->
