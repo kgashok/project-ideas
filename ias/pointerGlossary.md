@@ -221,10 +221,10 @@ The only kind of arithmetic that is allowed between two pointers:
 4. Only subtraction between two pointers
 
 ## Quiz 5B - Pointer assignment
-_contributed by Kishore Raj (201
+_contributed by Kishore Raj (2016, KITE)_
 ![fiveB](http://j.mp/pointerQuiz5B)
 
-What will be the output in Line 10? Choose one among the options below, and explain why you chose that as well. 
+What will be the output in **Line 10?** Choose one among the options below, and explain your choice as well. 
 
 1. 20, 20
 2. 5, 5 
@@ -377,8 +377,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTA0NTg0MywxMjA1Njc5Mzc4LDE1Nz
-EyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2NDA4MTQz
-MTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMDkyNTAsMj
-AwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzE0NTQ1NzAsMTIwNTY3OTM3OCwxNT
+cxMjg4MzI4LC0yMDIwODMwMjQ2LDE0NzEzMzM4NjgsNjQwODE0
+MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5MjkzMCwxNDU3MDA5MjUwLD
+IwMDk1NTM2MywxMTUzMjM2NDE1LC0xNjAyMzcwMTQ0XX0=
 -->
