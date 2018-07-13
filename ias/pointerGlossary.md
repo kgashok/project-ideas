@@ -221,6 +221,9 @@ The only kind of arithmetic that is allowed between two pointers:
 4. Only subtraction between two pointers
 
 ## Quiz 5B 
+![fiveB](http://j.mp/pointerQuiz5B)
+
+What will be the output in Line 10? Elaborate the reason for your choice below. 
 
 
 ## Quiz 6 - Mystery Function
@@ -365,8 +368,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTY3OTM3OCwxNTcxMjg4MzI4LC0yMD
-IwODMwMjQ2LDE0NzEzMzM4NjgsNjQwODE0MzExLC0xNDQ3NDQ1
-MzkzLDg1OTQ5MjkzMCwxNDU3MDA5MjUwLDIwMDk1NTM2MywxMT
-UzMjM2NDE1LC0xNjAyMzcwMTQ0XX0=
+eyJoaXN0b3J5IjpbOTk3NDg4OTI1LDEyMDU2NzkzNzgsMTU3MT
+I4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMx
+MSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1MCwyMD
+A5NTUzNjMsMTE1MzIzNjQxNSwtMTYwMjM3MDE0NF19
 -->
