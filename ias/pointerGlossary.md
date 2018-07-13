@@ -223,8 +223,13 @@ The only kind of arithmetic that is allowed between two pointers:
 ## Quiz 5B 
 ![fiveB](http://j.mp/pointerQuiz5B)
 
-What will be the output in Line 10? Elaborate the reason for your choice below. 
+What will be the output in Line 10? Choose one among the options below, and explain why you chose that as well. 
 
+1. 20, 20
+2. 5, 5 
+3. 5, 20
+4. 20, 5 
+5. Illegal and 
 
 ## Quiz 6 - Mystery Function
 
@@ -368,7 +373,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NDg4OTI1LDEyMDU2NzkzNzgsMTU3MT
+eyJoaXN0b3J5IjpbNTYyNzczMzQ2LDEyMDU2NzkzNzgsMTU3MT
 I4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMx
 MSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1MCwyMD
 A5NTUzNjMsMTE1MzIzNjQxNSwtMTYwMjM3MDE0NF19
