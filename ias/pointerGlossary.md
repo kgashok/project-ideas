@@ -329,7 +329,7 @@ The above statement is
 ## Pointer Camp  http://bit.ly/pointerKITE
 
 # Lecture Notes
-
+_For some reason most people seem to be born without the part of the brain that understands pointers. This is an aptitude thing, not a skill thing – it requires a complex form of doubly-indirected thinking that some people just can’t do._ - Joel Spolsky
 
 1. **What is a pointer?** It is a number.
 
@@ -378,9 +378,9 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAzMDY0MTMsLTE1OTYzMDY5ODksLT
-E2NzE0NTQ1NzAsMTIwNTY3OTM3OCwxNTcxMjg4MzI4LC0yMDIw
-ODMwMjQ2LDE0NzEzMzM4NjgsNjQwODE0MzExLC0xNDQ3NDQ1Mz
-kzLDg1OTQ5MjkzMCwxNDU3MDA5MjUwLDIwMDk1NTM2MywxMTUz
-MjM2NDE1LC0xNjAyMzcwMTQ0XX0=
+eyJoaXN0b3J5IjpbLTgwMDg4MzY2OCwtMTU5NjMwNjk4OSwtMT
+Y3MTQ1NDU3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4
+MzAyNDYsMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOT
+MsODU5NDkyOTMwLDE0NTcwMDkyNTAsMjAwOTU1MzYzLDExNTMy
+MzY0MTUsLTE2MDIzNzAxNDRdfQ==
 -->
