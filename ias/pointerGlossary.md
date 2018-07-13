@@ -68,7 +68,8 @@ Very important counter-perspective to read:
 [call by value in C]: http://j.mp/callByValueC
 [operator overloading why?]:  http://www.stroustrup.com/bs_faq2.html#pointers-and-references
 
-
+## Same Asterisk, Different Meaning
+![asterisk](j.mp/confusingPointers
 ## Code Quiz
 
 ## Quiz 0 - Pointer basics 
@@ -360,8 +361,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2ND
-A4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMDky
-NTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ
-==
+eyJoaXN0b3J5IjpbLTEyNzA4NTg0MjUsLTIwMjA4MzAyNDYsMT
+Q3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDky
+OTMwLDE0NTcwMDkyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLT
+E2MDIzNzAxNDRdfQ==
 -->
