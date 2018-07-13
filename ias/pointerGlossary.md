@@ -69,9 +69,6 @@ Very important counter-perspective to read:
 [operator overloading why?]:  http://www.stroustrup.com/bs_faq2.html#pointers-and-references
 
 
-Section 22.12: Same Asterisk, Dierent Meanings Premise The most confusing thing surrounding pointer syntax in C and C++ is that there are actually two different meanings that apply when the pointer symbol, the asterisk (*), is used with a variable. Example Firstly, you use * to declare a pointer variable. int i = 5; /* 'p' is a pointer to an integer, initialized as NULL */ int *p = NULL; /* '&i' evaluates into address of 'i', which then assigned to 'p' */ p = &i; /* 'p' is now holding the address of 'i' */ When you're not declaring (or multiplying), * is used to dereference a pointer variable: *p = 123; /* 'p' was pointing to 'i', so this changes value of 'i' to 123 */ When you want an existing pointer variable to hold address of other variable, you don't use *, but do it like this: p = &another_variable; A common confusion among C-programming newbies arises when they declare and initialize a pointer variable at the same time. GoalKicker.com – C Notes for Professionals 143 int *p = &i; Since int i = 5; and int i; i = 5; give the same result, some of them might thought int *p = &i; and int *p; *p = &i; give the same result too. The fact is, no, int *p; *p = &i; will attempt to deference an uninitialized pointer which will result in UB. Never use * when you're not declaring nor dereferencing a pointer. Conclusion The asterisk (*) has two distinct meanings within C in relation to pointers, depending on where it's used. When used within a variable declaration, the value on the right hand side of the equals side should be a pointer value to an address in memory. When used with an already declared variable, the asterisk will dereference the pointer value, following it to the pointed-to place in memory, and allowing the value stored there to be assigned or retrieved. Takeaway It is important to mind your P's and Q's, so to speak, when dealing with pointers. Be mindful of when you're using the asterisk, and what it means when you use it there. Overlooking this tiny detail could result in buggy and/or undefined behavior that you really don't want to have to deal with.
-
-
 ## Code Quiz
 
 ## Quiz 0 - Pointer basics 
@@ -363,7 +360,8 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDIwMjk3NiwxNDcxMzMzODY4LDY0MD
-gxNDMxMSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1
-MCwyMDA5NTUzNjMsMTE1MzIzNjQxNSwtMTYwMjM3MDE0NF19
+eyJoaXN0b3J5IjpbLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2ND
+A4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMDky
+NTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ
+==
 -->
