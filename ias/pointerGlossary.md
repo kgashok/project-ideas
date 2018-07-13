@@ -229,7 +229,10 @@ What will be the output in Line 10? Choose one among the options below, and expl
 2. 5, 5 
 3. 5, 20
 4. 20, 5 
-5. Illegal and 
+5. Illegal and therefore indeterminable 
+6. None of the above 
+
+
 
 ## Quiz 6 - Mystery Function
 
@@ -373,7 +376,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNzczMzQ2LDEyMDU2NzkzNzgsMTU3MT
+eyJoaXN0b3J5IjpbNzY2MTc4MDIwLDEyMDU2NzkzNzgsMTU3MT
 I4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMx
 MSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1MCwyMD
 A5NTUzNjMsMTE1MzIzNjQxNSwtMTYwMjM3MDE0NF19
