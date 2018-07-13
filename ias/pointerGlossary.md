@@ -2,6 +2,7 @@
 Need a ToC? Visit http://j.mp/pointerStart
 
 # Pointer Glossary
+_For some reason most people seem to be born without the part of the brain that understands pointers. This is an aptitude thing, not a skill thing – it requires a complex form of doubly-indirected thinking that some people just can't do._ - Joel Spolsky
 - Take a look at http://j.mp/pointerGrok as well.  
 - Take a look at the [Pointer Chapter](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html) on Pebble 
 
@@ -377,8 +378,9 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE0NTQ1NzAsMTIwNTY3OTM3OCwxNT
-cxMjg4MzI4LC0yMDIwODMwMjQ2LDE0NzEzMzM4NjgsNjQwODE0
-MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5MjkzMCwxNDU3MDA5MjUwLD
-IwMDk1NTM2MywxMTUzMjM2NDE1LC0xNjAyMzcwMTQ0XX0=
+eyJoaXN0b3J5IjpbLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAsMT
+IwNTY3OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0NzEz
+MzM4NjgsNjQwODE0MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5MjkzMC
+wxNDU3MDA5MjUwLDIwMDk1NTM2MywxMTUzMjM2NDE1LC0xNjAy
+MzcwMTQ0XX0=
 -->
