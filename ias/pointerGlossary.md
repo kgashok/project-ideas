@@ -75,7 +75,7 @@ Very important counter-perspective to read:
 
 
 ## Code Quiz
-Read [Same Asterisk, Different Meaning](#Sam
+Read [Same Asterisk, Different Meaning](#same-asterisk-different-meaning) be
 
 ## Quiz 0 - Pointer basics 
 
@@ -380,10 +380,10 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk3NTM4MDUsLTU3MzgwMDEwOSwtMT
-k2MTI1ODQ0LC0xNTk2MzA2OTg5LC0xNjcxNDU0NTcwLDEyMDU2
-NzkzNzgsMTU3MTI4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzOD
-Y4LDY0MDgxNDMxMSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1
-NzAwOTI1MCwyMDA5NTUzNjMsMTE1MzIzNjQxNSwtMTYwMjM3MD
-E0NF19
+eyJoaXN0b3J5IjpbLTY2NzgyMDEzLC01NzM4MDAxMDksLTE5Nj
+EyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5
+Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OC
+w2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcw
+MDkyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxND
+RdfQ==
 -->
