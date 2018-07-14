@@ -75,7 +75,7 @@ Very important counter-perspective to read:
 
 
 ## Code Quiz
-Read [Same Asterisk, Different Meaning](#same-asterisk-different-meaning) be
+Read [Same Asterisk, Different Meaning](#same-asterisk-different-meaning) before you attempt the problems below.
 
 ## Quiz 0 - Pointer basics 
 
@@ -380,10 +380,10 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzgyMDEzLC01NzM4MDAxMDksLTE5Nj
-EyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5
-Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OC
-w2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcw
-MDkyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxND
-RdfQ==
+eyJoaXN0b3J5IjpbLTIzMDM4MDU3NSwtNTczODAwMTA5LC0xOT
+YxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAsMTIwNTY3
+OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0NzEzMzM4Nj
+gsNjQwODE0MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5MjkzMCwxNDU3
+MDA5MjUwLDIwMDk1NTM2MywxMTUzMjM2NDE1LC0xNjAyMzcwMT
+Q0XX0=
 -->
