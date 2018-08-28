@@ -228,6 +228,12 @@ The only kind of arithmetic that is allowed between two pointers:
 
 The output of the above program is: 
 
+1. `3 3` 
+2. `12 3` 
+3. `0 0` 
+4. 12 and indeterminable 
+5. Will not compile 
+
 
 ## Quiz 5B - Pointer assignment
 _contributed by Kishore Raj (2016, KITE)_
@@ -386,10 +392,10 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTQ1MzM4MywtNDA4MzI1ODYzLC0yMz
-AzODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1ODQ0LC0xNTk2MzA2
-OTg5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgsMTU3MTI4ODMyOC
-wtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMxMSwtMTQ0
-NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1MCwyMDA5NTUzNj
-MsMTE1MzIzNjQxNSwtMTYwMjM3MDE0NF19
+eyJoaXN0b3J5IjpbLTE0OTA3NDU5MTksLTQwODMyNTg2MywtMj
+MwMzgwNTc1LC01NzM4MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMw
+Njk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMj
+gsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0
+NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMDkyNTAsMjAwOTU1Mz
+YzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ==
 -->
