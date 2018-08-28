@@ -224,6 +224,9 @@ The only kind of arithmetic that is allowed between two pointers:
 4. Only subtraction between two pointers
 
 ### Quiz 5.4
+![output](http://j.mp/outputGuessing)
+
+The output of the above program is: 
 
 
 ## Quiz 5B - Pointer assignment
@@ -383,10 +386,10 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODMyNTg2MywtMjMwMzgwNTc1LC01Nz
-M4MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1
-NDU3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyND
-YsMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5
-NDkyOTMwLDE0NTcwMDkyNTAsMjAwOTU1MzYzLDExNTMyMzY0MT
-UsLTE2MDIzNzAxNDRdfQ==
+eyJoaXN0b3J5IjpbLTk0MTQ1MzM4MywtNDA4MzI1ODYzLC0yMz
+AzODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1ODQ0LC0xNTk2MzA2
+OTg5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgsMTU3MTI4ODMyOC
+wtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMxMSwtMTQ0
+NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1MCwyMDA5NTUzNj
+MsMTE1MzIzNjQxNSwtMTYwMjM3MDE0NF19
 -->
