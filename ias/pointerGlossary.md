@@ -235,7 +235,7 @@ The output of the above program is:
 5. Will not compile
 6. None of the above
 
-If the desired output is `3 3`, what should be the change to the 2nd `printf` statement? 
+If the desired output is `12 3`, what should be the change to the 2nd `printf` statement? 
 
 ## Quiz 5B - Pointer assignment
 _contributed by Kishore Raj (2016, KITE)_
@@ -394,7 +394,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM0OTY2NzgsLTE0OTA3NDU5MTksLT
+eyJoaXN0b3J5IjpbLTE1NjEyNDk1NDQsLTE0OTA3NDU5MTksLT
 QwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4MDAxMDksLTE5NjEy
 NTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5Mz
 c4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2
