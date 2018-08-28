@@ -223,6 +223,9 @@ The only kind of arithmetic that is allowed between two pointers:
 3. Both the above
 4. Only subtraction between two pointers
 
+### Quiz 5.4
+
+
 ## Quiz 5B - Pointer assignment
 _contributed by Kishore Raj (2016, KITE)_
 ![fiveB](http://j.mp/pointerQuiz5B)
@@ -380,7 +383,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzA1MzYyOCwtMjMwMzgwNTc1LC01Nz
+eyJoaXN0b3J5IjpbLTQwODMyNTg2MywtMjMwMzgwNTc1LC01Nz
 M4MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1
 NDU3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyND
 YsMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5
