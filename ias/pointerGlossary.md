@@ -231,9 +231,11 @@ The output of the above program is:
 1. `3 3` 
 2. `12 3` 
 3. `0 0` 
-4. 12 and indeterminable 
-5. Will not compile 
+4. `12  <indeterminable>` 
+5. Will not compile
+6. None of the above
 
+If the desired output is `3 3`, what should be the change to the 2nd `printf` statement? 
 
 ## Quiz 5B - Pointer assignment
 _contributed by Kishore Raj (2016, KITE)_
@@ -392,10 +394,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA3NDU5MTksLTQwODMyNTg2MywtMj
-MwMzgwNTc1LC01NzM4MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMw
-Njk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMj
-gsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0
-NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMDkyNTAsMjAwOTU1Mz
-YzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTM0OTY2NzgsLTE0OTA3NDU5MTksLT
+QwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4MDAxMDksLTE5NjEy
+NTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5Mz
+c4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2
+NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMD
+kyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRd
+fQ==
 -->
