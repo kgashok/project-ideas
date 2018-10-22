@@ -77,6 +77,15 @@ Very important counter-perspective to read:
 ## Code Quiz
 Read [Same Asterisk, Different Meaning](#same-asterisk-different-meaning) before you attempt the problems below.
 
+## Pointer Snippet
+Is the following code snippet valid? ***If*** yes, explain what the following code snippet is trying to do.
+
+   ```c
+    int *ip;
+    ip = (int *)6;
+    *ip = 0xFF;
+ ``` 
+    
 ## Quiz 0 - Pointer basics 
 
 ```c
@@ -394,11 +403,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEyNDk1NDQsLTE0OTA3NDU5MTksLT
-QwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4MDAxMDksLTE5NjEy
-NTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwxMjA1Njc5Mz
-c4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2OCw2
-NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMwLDE0NTcwMD
-kyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUsLTE2MDIzNzAxNDRd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNzk5NzI1NjcsLTE1NjEyNDk1NDQsLT
+E0OTA3NDU5MTksLTQwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4
+MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1ND
+U3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYs
+MTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5ND
+kyOTMwLDE0NTcwMDkyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUs
+LTE2MDIzNzAxNDRdfQ==
 -->
