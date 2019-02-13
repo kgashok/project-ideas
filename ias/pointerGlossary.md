@@ -344,6 +344,10 @@ The above statement is
 ## Quiz 14 - what does this function do? 
 ![mystery14](http://j.mp/mysteryFunc14)
 
+## Quiz 15 - what is the output? 
+
+
+
 # What next?
 
 - Use [Pointer Koans](https://github.com/kgashok/CppKoans/blob/master/koans/koan05_pointers.cpp) to reflect on pointer concepts by reading/writing simple pointer code
@@ -403,11 +407,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk5NzI1NjcsLTE1NjEyNDk1NDQsLT
-E0OTA3NDU5MTksLTQwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4
-MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1ND
-U3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYs
-MTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5ND
-kyOTMwLDE0NTcwMDkyNTAsMjAwOTU1MzYzLDExNTMyMzY0MTUs
-LTE2MDIzNzAxNDRdfQ==
+eyJoaXN0b3J5IjpbMTgzOTY5NjM0OCwtMTU2MTI0OTU0NCwtMT
+Q5MDc0NTkxOSwtNDA4MzI1ODYzLC0yMzAzODA1NzUsLTU3Mzgw
+MDEwOSwtMTk2MTI1ODQ0LC0xNTk2MzA2OTg5LC0xNjcxNDU0NT
+cwLDEyMDU2NzkzNzgsMTU3MTI4ODMyOCwtMjAyMDgzMDI0Niwx
+NDcxMzMzODY4LDY0MDgxNDMxMSwtMTQ0NzQ0NTM5Myw4NTk0OT
+I5MzAsMTQ1NzAwOTI1MCwyMDA5NTUzNjMsMTE1MzIzNjQxNSwt
+MTYwMjM3MDE0NF19
 -->
