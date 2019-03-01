@@ -37,6 +37,7 @@ _For some reason most people seem to be born without the part of the brain that 
 
 Very important counter-perspective to read:   
   - "I think the main barrier to understanding pointers is bad teachers." http://bit.ly/pointersAndBadTeachers  
+	  - That they are _nothing more than memory addresses_, or that they allow you to point to _arbitrary locations_.
   - The Pointer conspiracy - http://bit.ly/pointerConspiracy
 
 ### Integers and Integer variables (_Known_) 
@@ -412,11 +413,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEzODQ0ODYsMTgzOTY5NjM0OCwtMT
-U2MTI0OTU0NCwtMTQ5MDc0NTkxOSwtNDA4MzI1ODYzLC0yMzAz
-ODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1ODQ0LC0xNTk2MzA2OT
-g5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgsMTU3MTI4ODMyOCwt
-MjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMxMSwtMTQ0Nz
-Q0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1MCwyMDA5NTUzNjMs
-MTE1MzIzNjQxNV19
+eyJoaXN0b3J5IjpbLTE1MzM5OTYyNzAsLTEyNzEzODQ0ODYsMT
+gzOTY5NjM0OCwtMTU2MTI0OTU0NCwtMTQ5MDc0NTkxOSwtNDA4
+MzI1ODYzLC0yMzAzODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1OD
+Q0LC0xNTk2MzA2OTg5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgs
+MTU3MTI4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MD
+gxNDMxMSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1
+MCwyMDA5NTUzNjNdfQ==
 -->
