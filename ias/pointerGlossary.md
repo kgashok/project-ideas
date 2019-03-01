@@ -354,8 +354,6 @@ The above statement is
 
 ## Quiz 16 - what is the output?
 
-What is the output of this program?
-
 ```cpp
 
 #include <iostream>
@@ -370,11 +368,11 @@ int main() {
 	return 0;
 }
  ```
-
-a) `fgh`  
-b) `cdef`  
-c) `defgh`  
-d) `abcdefgh`
+What is the output of this program?
+	1) `fgh`  
+	2) `cdef`  
+	3) `defgh`  
+	4) `abcdefgh`
 
 
 # What next?
@@ -436,11 +434,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0ODIwNDExLDE5MDcwNTE1MTIsLTE5Nz
-MwNzQ1OTMsLTEyNzEzODQ0ODYsMTgzOTY5NjM0OCwtMTU2MTI0
-OTU0NCwtMTQ5MDc0NTkxOSwtNDA4MzI1ODYzLC0yMzAzODA1Nz
-UsLTU3MzgwMDEwOSwtMTk2MTI1ODQ0LC0xNTk2MzA2OTg5LC0x
-NjcxNDU0NTcwLDEyMDU2NzkzNzgsMTU3MTI4ODMyOCwtMjAyMD
-gzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMxMSwtMTQ0NzQ0NTM5
-Myw4NTk0OTI5MzBdfQ==
+eyJoaXN0b3J5IjpbMTM4NzU0ODYzNywxOTA3MDUxNTEyLC0xOT
+czMDc0NTkzLC0xMjcxMzg0NDg2LDE4Mzk2OTYzNDgsLTE1NjEy
+NDk1NDQsLTE0OTA3NDU5MTksLTQwODMyNTg2MywtMjMwMzgwNT
+c1LC01NzM4MDAxMDksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwt
+MTY3MTQ1NDU3MCwxMjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMj
+A4MzAyNDYsMTQ3MTMzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUz
+OTMsODU5NDkyOTMwXX0=
 -->
