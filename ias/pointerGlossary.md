@@ -362,7 +362,7 @@ using namespace std;
 
 int main() {
 	char *ptr;
-	char Str[] = "abcdefg";
+	char Str[] = "abcdefgh";
 	ptr = Str;
 	ptr += 5;
 	printf ("%s", ptr); 
@@ -370,10 +370,11 @@ int main() {
 }
  ```
 
-a) `fg`  
+a) `fgh`  
 b) `cdef`  
-c) `defg`  
-d) `abcde`
+c) `defgh`  
+d) `abcdefgh`
+
 
 # What next?
 
@@ -434,7 +435,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDY0NjA1NiwtMTk3MzA3NDU5MywtMT
+eyJoaXN0b3J5IjpbLTU1MTAwMjI1MSwtMTk3MzA3NDU5MywtMT
 I3MTM4NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkw
 NzQ1OTE5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMT
 A5LC0xOTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAs
