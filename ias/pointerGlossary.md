@@ -352,7 +352,7 @@ The above statement is
 3. Compiler dependent 
 4. None of the above 
 
-## Quiz 13
+## Quiz 16
 10. What is the output of this program?
 
 ```cpp
@@ -435,7 +435,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTAwMjI1MSwtMTk3MzA3NDU5MywtMT
+eyJoaXN0b3J5IjpbMTkwNzA1MTUxMiwtMTk3MzA3NDU5MywtMT
 I3MTM4NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkw
 NzQ1OTE5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMT
 A5LC0xOTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAs
