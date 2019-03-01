@@ -365,15 +365,15 @@ int main() {
 	char Str[] = "abcdefg";
 	ptr = Str;
 	ptr += 5;
-	cout << ptr;
+	printf ("%s", ptr); 
 	return 0;
 }
  ```
 
-a) fg  
-b) cdef  
-c) defg  
-d) abcd
+a) `fg`  
+b) `cdef`  
+c) `defg`  
+d) `abcde`
 
 # What next?
 
@@ -434,11 +434,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMDU5NTEwLC0xOTczMDc0NTkzLC0xMj
-cxMzg0NDg2LDE4Mzk2OTYzNDgsLTE1NjEyNDk1NDQsLTE0OTA3
-NDU5MTksLTQwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4MDAxMD
-ksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwx
-MjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MT
-MzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMw
-LDE0NTcwMDkyNTBdfQ==
+eyJoaXN0b3J5IjpbLTQ3MDY0NjA1NiwtMTk3MzA3NDU5MywtMT
+I3MTM4NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkw
+NzQ1OTE5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMT
+A5LC0xOTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAs
+MTIwNTY3OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0Nz
+EzMzM4NjgsNjQwODE0MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5Mjkz
+MCwxNDU3MDA5MjUwXX0=
 -->
