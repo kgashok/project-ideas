@@ -347,7 +347,7 @@ The above statement is
 
 ## Quiz 15 - what is the output? 
 ![mystery15](http://j.mp/mysteryQuiz15)
-1. 4 
+1. value is 4 
 2. Error 
 3. Compiler dependent 
 4. None of the above 
@@ -413,7 +413,7 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5OTYyNzAsLTEyNzEzODQ0ODYsMT
+eyJoaXN0b3J5IjpbLTE5NzMwNzQ1OTMsLTEyNzEzODQ0ODYsMT
 gzOTY5NjM0OCwtMTU2MTI0OTU0NCwtMTQ5MDc0NTkxOSwtNDA4
 MzI1ODYzLC0yMzAzODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1OD
 Q0LC0xNTk2MzA2OTg5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgs
