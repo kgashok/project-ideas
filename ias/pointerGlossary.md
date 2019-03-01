@@ -352,7 +352,37 @@ The above statement is
 3. Compiler dependent 
 4. None of the above 
 
+## Quiz 13
+10. What is the output of this program?
 
+```cpp
+1.      #include <iostream>
+    
+2.      using namespace std;
+    
+3.      int main()
+    
+4.      {
+    
+5.          char *ptr;
+    
+6.          char Str[] = "abcdefg";
+    
+7.          ptr = Str;
+    
+8.          ptr += 5;
+    
+9.          cout << ptr;
+    
+10.          return 0;
+    
+11.      }
+    
+
+a) fg  
+b) cdef  
+c) defg  
+d) abcd
 
 # What next?
 
@@ -413,11 +443,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMwNzQ1OTMsLTEyNzEzODQ0ODYsMT
-gzOTY5NjM0OCwtMTU2MTI0OTU0NCwtMTQ5MDc0NTkxOSwtNDA4
-MzI1ODYzLC0yMzAzODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1OD
-Q0LC0xNTk2MzA2OTg5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgs
-MTU3MTI4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MD
-gxNDMxMSwtMTQ0NzQ0NTM5Myw4NTk0OTI5MzAsMTQ1NzAwOTI1
-MCwyMDA5NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTMxOTU2MDY3NiwtMTk3MzA3NDU5MywtMT
+I3MTM4NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkw
+NzQ1OTE5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMT
+A5LC0xOTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAs
+MTIwNTY3OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0Nz
+EzMzM4NjgsNjQwODE0MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5Mjkz
+MCwxNDU3MDA5MjUwXX0=
 -->
