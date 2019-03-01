@@ -356,26 +356,18 @@ The above statement is
 10. What is the output of this program?
 
 ```cpp
+
 #include <iostream>
 using namespace std;
 
-int main()
-    
-      {
-    
-5.          char *ptr;
-    
-6.          char Str[] = "abcdefg";
-    
-7.          ptr = Str;
-    
-8.          ptr += 5;
-    
-9.          cout << ptr;
-    
-10.          return 0;
-    
-11.      }
+int main() {
+	char *ptr;
+	char Str[] = "abcdefg";
+	ptr = Str;
+	ptr += 5;
+	cout << ptr;
+	return 0;
+}
  ```
 
 a) fg  
@@ -442,11 +434,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDk0ODc5OCwtMTk3MzA3NDU5MywtMT
-I3MTM4NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkw
-NzQ1OTE5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMT
-A5LC0xOTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAs
-MTIwNTY3OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0Nz
-EzMzM4NjgsNjQwODE0MzExLC0xNDQ3NDQ1MzkzLDg1OTQ5Mjkz
-MCwxNDU3MDA5MjUwXX0=
+eyJoaXN0b3J5IjpbOTcyMDU5NTEwLC0xOTczMDc0NTkzLC0xMj
+cxMzg0NDg2LDE4Mzk2OTYzNDgsLTE1NjEyNDk1NDQsLTE0OTA3
+NDU5MTksLTQwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4MDAxMD
+ksLTE5NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwx
+MjA1Njc5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MT
+MzMzg2OCw2NDA4MTQzMTEsLTE0NDc0NDUzOTMsODU5NDkyOTMw
+LDE0NTcwMDkyNTBdfQ==
 -->
