@@ -202,11 +202,33 @@ void swap(int *x, int *y) {
 	int *temp;
 	*temp = *x; 
 	*x = *y; 
-	*y = *
+	*y = *temp; 
 }
 ```
+The above `swap` function will work 
+1. As expected
+2. Will not compile 
+3. The behavior will be unpredictable 
+4. None of the above 
+
+
 
 ## Quiz 3b
+
+```c
+void swap(int *x, int *y) { 
+	int temp;
+	temp = *x; 
+	*x = *y; 
+	*y = temp; 
+}
+```
+The above `swap` function will work 
+1. As expected
+2. Will not compile 
+3. The behavior will be unpredictable 
+4. None of the above 
+
 
 ## Quiz 4  - Bug Finder 
 
@@ -447,11 +469,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY0NDIwMSwxMTE5MTY4NzA5LDEzOD
-c1NDg2MzcsMTkwNzA1MTUxMiwtMTk3MzA3NDU5MywtMTI3MTM4
-NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkwNzQ1OT
-E5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMTA5LC0x
-OTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAsMTIwNT
-Y3OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0NzEzMzM4
-NjgsNjQwODE0MzExXX0=
+eyJoaXN0b3J5IjpbODEwNDI2OTc0LDExMTkxNjg3MDksMTM4Nz
+U0ODYzNywxOTA3MDUxNTEyLC0xOTczMDc0NTkzLC0xMjcxMzg0
+NDg2LDE4Mzk2OTYzNDgsLTE1NjEyNDk1NDQsLTE0OTA3NDU5MT
+ksLTQwODMyNTg2MywtMjMwMzgwNTc1LC01NzM4MDAxMDksLTE5
+NjEyNTg0NCwtMTU5NjMwNjk4OSwtMTY3MTQ1NDU3MCwxMjA1Nj
+c5Mzc4LDE1NzEyODgzMjgsLTIwMjA4MzAyNDYsMTQ3MTMzMzg2
+OCw2NDA4MTQzMTFdfQ==
 -->
