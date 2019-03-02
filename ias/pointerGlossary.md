@@ -195,6 +195,19 @@ Assume you've entered the appropriate code for the `swap` function above. The co
 5. None of the above   
 
 
+## Quiz 3a 
+
+```c
+void swap(int *x, int *y) { 
+	int *temp;
+	*temp = *x; 
+	*x = *y; 
+	*y = *
+}
+```
+
+## Quiz 3b
+
 ## Quiz 4  - Bug Finder 
 
 ![substring](https://rawgit.com/kgisl/project-ideas/master/ias/subString.png)
@@ -434,11 +447,11 @@ UyLC00MTM4NDk5ODUsMjE5Mjc4MTg0LDE4MjI5OTgzNzldfQ==
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTE2ODcwOSwxMzg3NTQ4NjM3LDE5MD
-cwNTE1MTIsLTE5NzMwNzQ1OTMsLTEyNzEzODQ0ODYsMTgzOTY5
-NjM0OCwtMTU2MTI0OTU0NCwtMTQ5MDc0NTkxOSwtNDA4MzI1OD
-YzLC0yMzAzODA1NzUsLTU3MzgwMDEwOSwtMTk2MTI1ODQ0LC0x
-NTk2MzA2OTg5LC0xNjcxNDU0NTcwLDEyMDU2NzkzNzgsMTU3MT
-I4ODMyOCwtMjAyMDgzMDI0NiwxNDcxMzMzODY4LDY0MDgxNDMx
-MSwtMTQ0NzQ0NTM5M119
+eyJoaXN0b3J5IjpbLTQyODY0NDIwMSwxMTE5MTY4NzA5LDEzOD
+c1NDg2MzcsMTkwNzA1MTUxMiwtMTk3MzA3NDU5MywtMTI3MTM4
+NDQ4NiwxODM5Njk2MzQ4LC0xNTYxMjQ5NTQ0LC0xNDkwNzQ1OT
+E5LC00MDgzMjU4NjMsLTIzMDM4MDU3NSwtNTczODAwMTA5LC0x
+OTYxMjU4NDQsLTE1OTYzMDY5ODksLTE2NzE0NTQ1NzAsMTIwNT
+Y3OTM3OCwxNTcxMjg4MzI4LC0yMDIwODMwMjQ2LDE0NzEzMzM4
+NjgsNjQwODE0MzExXX0=
 -->
