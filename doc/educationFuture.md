@@ -1,3 +1,7 @@
+# Future of Education
+
+from https://twitter.com/david_perell/status/1228873220167753728?s=20
+
 Education is broken. Here is what the future of education will look like: 
 
 1. Teaching will become an extremely lucrative profession. Salaries will follow a power law. The best teachers will make millions of dollars per year and teach thousands of students per year.
