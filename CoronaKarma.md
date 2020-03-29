@@ -2,23 +2,27 @@
 
 # coronaKarma 
 
-1. We will be rolling out a Python course to help students learn and develop a project that in some way will be related to the Corona Crisis 
-	2. Goal is have at least 1000 learners online 
-	3. Give them a taste of what online learning is 
-	4. A poster will come out shortly - will share 
+ - Maintainer for a project on http://j.mp/projectsKG 
+	 - Please feel free to add to the list of projects there
+	 - AR project 
+		 - for healthcare? 
+		 - for education in healthcare? 
+	 - Vishwas - a student iOS developer 
+		 - will get in touch with you
 
-2. Maintainer for a project on http://j.mp/projectsKG 
-	3. AR project 
-		4. for healthcare? 
-		5. for education in healthcare? 
-	4. Vishwas - a student iOS developer will get in touch with you
+- Memcode Project 
+		 - Slack channel  - http://j.mp/memcodeSlack 
+		 - The github repo - http://github/lakesare/memcode 
+		 - The cards on memcode on issues/resolution [https://www.memcode.com/courses/2272/review](https://www.memcode.com/courses/2272/review)
 
-3. Memcode Project 
-	4. Slack channel - 
-	5. The github repo - http://github/memcode 
-	6. The cards on memcode on issues/resolution 
+ - Mentoring in **AI for Business Leaders** 
+		- A similar orientation is needed for many business leaders
+		 - Cards I have created for the course - [https://www.memcode.com/courses/2262/](https://www.memcode.com/courses/2262/)
 
-4. Mentor for Ashok in AI for Business Leaders 
-	5. The actual course link
-	6. Cards I have created for the course 
+ - We will be rolling out a **Python** course to help students learn and develop a project that in some way will be related to the Corona Crisis 
+	- Goal is have at least 1000 learners online  
+	 - Give them a taste of what online learning is  
+	 - A poster will come out shortly - will share
+		 - We will need online mentors to help them complete
+
 
