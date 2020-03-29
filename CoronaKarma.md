@@ -9,8 +9,9 @@
 		 - for education in healthcare? 
 	 - Vishwas - a student iOS developer 
 		 - will get in touch with you
+		 - bit.ly/apollovishwas 
 
-- Memcode Project 
+- Memcode Project - website http://memcode.com 
 	- Slack channel  - http://j.mp/memcodeSlack 
 	- The github repo - http://github/lakesare/memcode 
 		- The cards on memcode on issues/resolution [https://www.memcode.com/courses/2272/review](https://www.memcode.com/courses/2272/review)
